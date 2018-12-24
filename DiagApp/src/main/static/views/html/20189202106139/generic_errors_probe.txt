@@ -1,0 +1,4 @@
+--------------------------------------------
+File : /data/diaganalysis/temp/probe_diag/application/data/usr/local/megha/logs/user.log.2018-09-03-10.1.bak
+2018-09-03 10:58:31,479 [qtp1528637575-6935] user-ERROR-java.lang.IllegalArgumentException: Invalid active directory user Id : system
+--------------------------------------------
